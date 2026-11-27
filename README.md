@@ -6,8 +6,6 @@ Supervisor: Prof. Konstantina Nikita (NTUA)
 
 This is the original thesis, written in **Greek**, as submitted to NTUA. The official record is in NTUA's repository: <https://artemis.ece.ntua.gr/handle/123456789/20119>
 
-📄 **[Download the PDF (Greek)](../../releases/latest/download/Thesis_NTUA.pdf)**
-
 An English translation is available at <https://github.com/GeorgiosAnastasiou/eeg-vr-driving-thesis> (soon DOI: [10.5281/zenodo.24557357](https://doi.org/10.5281/zenodo.24557357)).
 
 ## Summary
