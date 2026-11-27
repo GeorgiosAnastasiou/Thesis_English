@@ -1,8 +1,11 @@
 # **Design of Machine Learning Methods on Electroencephalography Signals for the Analysis of Human-Machine Interaction**
 
 **Georgios Anastasiou** 
+
 Diploma Thesis 
+
 School of Electrical and Computer Engineering, National Technical University of Athens (NTUA)
+
 February 2026
 
 This is the original thesis, written in **Greek**, as submitted to NTUA. The official record is in NTUA's repository: <https://artemis.ece.ntua.gr/handle/123456789/20119>
