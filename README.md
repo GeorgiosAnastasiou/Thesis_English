@@ -1,12 +1,11 @@
-#*Design of Machine Learning Methods on Electroencephalography Signals for the Analysis of Human-Machine Interaction*
+# **Design of Machine Learning Methods on Electroencephalography Signals for the Analysis of Human-Machine Interaction**
 
-**Georgios Anastasiou** · Diploma Thesis · School of Electrical and Computer Engineering, National Technical University of Athens (NTUA) · February 2026
-
-Supervisor: Prof. Konstantina Nikita (NTUA)
+**Georgios Anastasiou** 
+Diploma Thesis 
+School of Electrical and Computer Engineering, National Technical University of Athens (NTUA)
+February 2026
 
 This is the original thesis, written in **Greek**, as submitted to NTUA. The official record is in NTUA's repository: <https://artemis.ece.ntua.gr/handle/123456789/20119>
-
-An English translation is available at <https://github.com/GeorgiosAnastasiou/eeg-vr-driving-thesis> (soon DOI: [10.5281/zenodo.24557357](https://doi.org/10.5281/zenodo.24557357)).
 
 ## Summary
 
