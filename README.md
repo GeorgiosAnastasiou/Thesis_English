@@ -1,4 +1,4 @@
-*Design of Machine Learning Methods on Electroencephalography Signals for the Analysis of Human-Machine Interaction*
+#*Design of Machine Learning Methods on Electroencephalography Signals for the Analysis of Human-Machine Interaction*
 
 **Georgios Anastasiou** · Diploma Thesis · School of Electrical and Computer Engineering, National Technical University of Athens (NTUA) · February 2026
 
